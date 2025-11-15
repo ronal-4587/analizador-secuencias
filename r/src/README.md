@@ -1,9 +1,9 @@
 # Analizador de Secuencias
 
 
-**Segundo Parcial — Programación I (Java)**  
-**Tema:** Arreglos + funciones dentro de una sola clase  
-**Duración:** 90 minutos · **Lenguaje:** Java (JDK 17+) · **Modalidad:** Individual  
+**Segundo Parcial — Programación I (Java)**
+**Tema:** Arreglos + funciones dentro de una sola clase
+**Duración:** 90 minutos · **Lenguaje:** Java (JDK 17+) · **Modalidad:** Individual
 
 ---
 
